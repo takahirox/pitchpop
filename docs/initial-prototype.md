@@ -34,17 +34,14 @@ The prototype should prove that:
 
 ## 3. Initial song set
 
-Use approximately five familiar songs for the first version:
+Current prototype selection (reduced at the user’s request pending melody review):
 
 - Chōchō (ちょうちょう)
 - Sakura Sakura (さくらさくら)
-- Musunde Hiraite (むすんでひらいて)
-- Kagome Kagome (かごめかごめ)
-- Antagata Doko Sa (あんたがたどこさ)
 
 All accompaniment and guide-melody audio used by the app should be newly produced specifically for PitchPop rather than copied from commercial recordings or online sources.
 
-Before any public release, the melody and lyrics rights for each included version must be verified again. For the prototype, these five are the working content set.
+Before any public release, the melody and lyrics rights for each included version must be verified again. For the prototype, these two are the working content set.
 
 ---
 
@@ -149,7 +146,7 @@ All scoring thresholds and weights must be stored as tunable parameters rather t
 
 ## 8. Settings
 
-The first version only requires two user-facing settings:
+The first version includes the following user-facing settings:
 
 ### Note-name display
 
@@ -161,6 +158,13 @@ The first version only requires two user-facing settings:
 - Always on
 - Always off
 - Adaptive fade
+
+### Allow octave differences
+
+- On by default, including when upgrading from a version without this setting.
+- On: compare octave-equivalent notes for scoring and adaptive-guide accuracy, and align the voice trace to the target octave while retaining cents errors.
+- Off: display and score the detected absolute pitch without octave adjustment.
+- Persist the selection across app restarts. The guide audio keeps its authored pitch in either mode.
 
 Additional settings should not be added unless they are necessary to make the prototype function.
 
@@ -201,7 +205,7 @@ The playback audio will leak into the microphone, so the first implementation sh
 - Capture microphone audio with Android `AudioRecord`.
 - Use `AcousticEchoCanceler` when supported by the device.
 - Treat acoustic echo cancellation as best-effort because behavior differs by device.
-- Do not implement a custom full software echo-cancellation system in the first prototype.
+- Original scope excluded full software echo cancellation. Following physical-device reports of playback being scored as singing, the user authorized a software echo-suppression update: use bundled SpeexDSP with the actual playback reference and passive learning from normal song playback (no separate calibration sound), while preserving normal music/game routing. Cross-device acoustic quality still requires testing.
 
 The implementation should keep audio capture and pitch detection sufficiently modular that more advanced echo suppression can be added later if device testing shows it is necessary.
 

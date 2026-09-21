@@ -1,0 +1,908 @@
+{
+  "songs": [
+    {
+      "id": "chocho",
+      "title": "ちょうちょう",
+      "bpm": 112,
+      "bassMidi": 48,
+      "durationMs": 35786,
+      "accompaniment": "audio/chocho_accompaniment.wav",
+      "guideMelody": "audio/chocho_guide.wav",
+      "notes": [
+        {
+          "startMs": 1000,
+          "endMs": 1536,
+          "midiNote": 67
+        },
+        {
+          "startMs": 1536,
+          "endMs": 2071,
+          "midiNote": 64
+        },
+        {
+          "startMs": 2071,
+          "endMs": 3143,
+          "midiNote": 64
+        },
+        {
+          "startMs": 3143,
+          "endMs": 3679,
+          "midiNote": 65
+        },
+        {
+          "startMs": 3679,
+          "endMs": 4214,
+          "midiNote": 62
+        },
+        {
+          "startMs": 4214,
+          "endMs": 5286,
+          "midiNote": 62
+        },
+        {
+          "startMs": 5286,
+          "endMs": 5821,
+          "midiNote": 60
+        },
+        {
+          "startMs": 5821,
+          "endMs": 6357,
+          "midiNote": 62
+        },
+        {
+          "startMs": 6357,
+          "endMs": 6893,
+          "midiNote": 64
+        },
+        {
+          "startMs": 6893,
+          "endMs": 7429,
+          "midiNote": 65
+        },
+        {
+          "startMs": 7429,
+          "endMs": 7964,
+          "midiNote": 67
+        },
+        {
+          "startMs": 7964,
+          "endMs": 8500,
+          "midiNote": 67
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9571,
+          "midiNote": 67
+        },
+        {
+          "startMs": 9571,
+          "endMs": 10107,
+          "midiNote": 67
+        },
+        {
+          "startMs": 10107,
+          "endMs": 10643,
+          "midiNote": 64
+        },
+        {
+          "startMs": 10643,
+          "endMs": 11179,
+          "midiNote": 64
+        },
+        {
+          "startMs": 11179,
+          "endMs": 11714,
+          "midiNote": 64
+        },
+        {
+          "startMs": 11714,
+          "endMs": 12250,
+          "midiNote": 65
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12786,
+          "midiNote": 62
+        },
+        {
+          "startMs": 12786,
+          "endMs": 13857,
+          "midiNote": 62
+        },
+        {
+          "startMs": 13857,
+          "endMs": 14393,
+          "midiNote": 60
+        },
+        {
+          "startMs": 14393,
+          "endMs": 14929,
+          "midiNote": 64
+        },
+        {
+          "startMs": 14929,
+          "endMs": 15464,
+          "midiNote": 67
+        },
+        {
+          "startMs": 15464,
+          "endMs": 16000,
+          "midiNote": 67
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16536,
+          "midiNote": 64
+        },
+        {
+          "startMs": 16536,
+          "endMs": 17071,
+          "midiNote": 64
+        },
+        {
+          "startMs": 17071,
+          "endMs": 18143,
+          "midiNote": 64
+        },
+        {
+          "startMs": 18143,
+          "endMs": 18679,
+          "midiNote": 62
+        },
+        {
+          "startMs": 18679,
+          "endMs": 19214,
+          "midiNote": 62
+        },
+        {
+          "startMs": 19214,
+          "endMs": 19750,
+          "midiNote": 62
+        },
+        {
+          "startMs": 19750,
+          "endMs": 20286,
+          "midiNote": 62
+        },
+        {
+          "startMs": 20286,
+          "endMs": 20821,
+          "midiNote": 62
+        },
+        {
+          "startMs": 20821,
+          "endMs": 21357,
+          "midiNote": 64
+        },
+        {
+          "startMs": 21357,
+          "endMs": 22429,
+          "midiNote": 65
+        },
+        {
+          "startMs": 22429,
+          "endMs": 22964,
+          "midiNote": 64
+        },
+        {
+          "startMs": 22964,
+          "endMs": 23500,
+          "midiNote": 64
+        },
+        {
+          "startMs": 23500,
+          "endMs": 24036,
+          "midiNote": 64
+        },
+        {
+          "startMs": 24036,
+          "endMs": 24571,
+          "midiNote": 64
+        },
+        {
+          "startMs": 24571,
+          "endMs": 25107,
+          "midiNote": 64
+        },
+        {
+          "startMs": 25107,
+          "endMs": 25643,
+          "midiNote": 65
+        },
+        {
+          "startMs": 25643,
+          "endMs": 26714,
+          "midiNote": 67
+        },
+        {
+          "startMs": 26714,
+          "endMs": 27250,
+          "midiNote": 67
+        },
+        {
+          "startMs": 27250,
+          "endMs": 27786,
+          "midiNote": 64
+        },
+        {
+          "startMs": 27786,
+          "endMs": 28321,
+          "midiNote": 64
+        },
+        {
+          "startMs": 28321,
+          "endMs": 28857,
+          "midiNote": 64
+        },
+        {
+          "startMs": 28857,
+          "endMs": 29393,
+          "midiNote": 65
+        },
+        {
+          "startMs": 29393,
+          "endMs": 29929,
+          "midiNote": 62
+        },
+        {
+          "startMs": 29929,
+          "endMs": 31000,
+          "midiNote": 62
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31536,
+          "midiNote": 60
+        },
+        {
+          "startMs": 31536,
+          "endMs": 32071,
+          "midiNote": 64
+        },
+        {
+          "startMs": 32071,
+          "endMs": 32607,
+          "midiNote": 67
+        },
+        {
+          "startMs": 32607,
+          "endMs": 33143,
+          "midiNote": 67
+        },
+        {
+          "startMs": 33143,
+          "endMs": 33679,
+          "midiNote": 64
+        },
+        {
+          "startMs": 33679,
+          "endMs": 34214,
+          "midiNote": 64
+        },
+        {
+          "startMs": 34214,
+          "endMs": 35286,
+          "midiNote": 60
+        }
+      ]
+    },
+    {
+      "id": "sakura",
+      "title": "さくらさくら",
+      "bpm": 100,
+      "bassMidi": 45,
+      "durationMs": 35100,
+      "accompaniment": "audio/sakura_accompaniment.wav",
+      "guideMelody": "audio/sakura_guide.wav",
+      "notes": [
+        {
+          "startMs": 1000,
+          "endMs": 1600,
+          "midiNote": 69
+        },
+        {
+          "startMs": 1600,
+          "endMs": 2200,
+          "midiNote": 69
+        },
+        {
+          "startMs": 2200,
+          "endMs": 3400,
+          "midiNote": 71
+        },
+        {
+          "startMs": 3400,
+          "endMs": 4000,
+          "midiNote": 69
+        },
+        {
+          "startMs": 4000,
+          "endMs": 4600,
+          "midiNote": 69
+        },
+        {
+          "startMs": 4600,
+          "endMs": 5800,
+          "midiNote": 71
+        },
+        {
+          "startMs": 5800,
+          "endMs": 6400,
+          "midiNote": 69
+        },
+        {
+          "startMs": 6400,
+          "endMs": 7000,
+          "midiNote": 71
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7600,
+          "midiNote": 72
+        },
+        {
+          "startMs": 7600,
+          "endMs": 8200,
+          "midiNote": 71
+        },
+        {
+          "startMs": 8200,
+          "endMs": 8800,
+          "midiNote": 69
+        },
+        {
+          "startMs": 8800,
+          "endMs": 9100,
+          "midiNote": 71
+        },
+        {
+          "startMs": 9100,
+          "endMs": 9400,
+          "midiNote": 69
+        },
+        {
+          "startMs": 9400,
+          "endMs": 10600,
+          "midiNote": 65
+        },
+        {
+          "startMs": 10600,
+          "endMs": 11200,
+          "midiNote": 64
+        },
+        {
+          "startMs": 11200,
+          "endMs": 11800,
+          "midiNote": 60
+        },
+        {
+          "startMs": 11800,
+          "endMs": 12400,
+          "midiNote": 64
+        },
+        {
+          "startMs": 12400,
+          "endMs": 13000,
+          "midiNote": 65
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13600,
+          "midiNote": 64
+        },
+        {
+          "startMs": 13600,
+          "endMs": 13900,
+          "midiNote": 64
+        },
+        {
+          "startMs": 13900,
+          "endMs": 14200,
+          "midiNote": 60
+        },
+        {
+          "startMs": 14200,
+          "endMs": 15400,
+          "midiNote": 59
+        },
+        {
+          "startMs": 15400,
+          "endMs": 16000,
+          "midiNote": 69
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16600,
+          "midiNote": 71
+        },
+        {
+          "startMs": 16600,
+          "endMs": 17200,
+          "midiNote": 72
+        },
+        {
+          "startMs": 17200,
+          "endMs": 17800,
+          "midiNote": 71
+        },
+        {
+          "startMs": 17800,
+          "endMs": 18400,
+          "midiNote": 69
+        },
+        {
+          "startMs": 18400,
+          "endMs": 18700,
+          "midiNote": 71
+        },
+        {
+          "startMs": 18700,
+          "endMs": 19000,
+          "midiNote": 69
+        },
+        {
+          "startMs": 19000,
+          "endMs": 20200,
+          "midiNote": 65
+        },
+        {
+          "startMs": 20200,
+          "endMs": 20800,
+          "midiNote": 64
+        },
+        {
+          "startMs": 20800,
+          "endMs": 21400,
+          "midiNote": 60
+        },
+        {
+          "startMs": 21400,
+          "endMs": 22000,
+          "midiNote": 64
+        },
+        {
+          "startMs": 22000,
+          "endMs": 22600,
+          "midiNote": 65
+        },
+        {
+          "startMs": 22600,
+          "endMs": 23200,
+          "midiNote": 64
+        },
+        {
+          "startMs": 23200,
+          "endMs": 23500,
+          "midiNote": 64
+        },
+        {
+          "startMs": 23500,
+          "endMs": 23800,
+          "midiNote": 60
+        },
+        {
+          "startMs": 23800,
+          "endMs": 25000,
+          "midiNote": 59
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25600,
+          "midiNote": 69
+        },
+        {
+          "startMs": 25600,
+          "endMs": 26200,
+          "midiNote": 69
+        },
+        {
+          "startMs": 26200,
+          "endMs": 27400,
+          "midiNote": 71
+        },
+        {
+          "startMs": 27400,
+          "endMs": 28000,
+          "midiNote": 69
+        },
+        {
+          "startMs": 28000,
+          "endMs": 28600,
+          "midiNote": 69
+        },
+        {
+          "startMs": 28600,
+          "endMs": 29800,
+          "midiNote": 71
+        },
+        {
+          "startMs": 29800,
+          "endMs": 30400,
+          "midiNote": 64
+        },
+        {
+          "startMs": 30400,
+          "endMs": 31000,
+          "midiNote": 65
+        },
+        {
+          "startMs": 31000,
+          "endMs": 31300,
+          "midiNote": 71
+        },
+        {
+          "startMs": 31300,
+          "endMs": 31600,
+          "midiNote": 69
+        },
+        {
+          "startMs": 31600,
+          "endMs": 32200,
+          "midiNote": 65
+        },
+        {
+          "startMs": 32200,
+          "endMs": 34600,
+          "midiNote": 64
+        }
+      ]
+    },
+    {
+      "id": "kaeru",
+      "title": "かえるの歌",
+      "bpm": 96,
+      "bassMidi": 48,
+      "durationMs": 21500,
+      "accompaniment": "audio/kaeru_accompaniment.wav",
+      "guideMelody": "audio/kaeru_guide.wav",
+      "notes": [
+        {
+          "startMs": 1000,
+          "endMs": 1625,
+          "midiNote": 60
+        },
+        {
+          "startMs": 1625,
+          "endMs": 2250,
+          "midiNote": 62
+        },
+        {
+          "startMs": 2250,
+          "endMs": 2875,
+          "midiNote": 64
+        },
+        {
+          "startMs": 2875,
+          "endMs": 3500,
+          "midiNote": 65
+        },
+        {
+          "startMs": 3500,
+          "endMs": 4125,
+          "midiNote": 64
+        },
+        {
+          "startMs": 4125,
+          "endMs": 4750,
+          "midiNote": 62
+        },
+        {
+          "startMs": 4750,
+          "endMs": 6000,
+          "midiNote": 60
+        },
+        {
+          "startMs": 6000,
+          "endMs": 6625,
+          "midiNote": 64
+        },
+        {
+          "startMs": 6625,
+          "endMs": 7250,
+          "midiNote": 65
+        },
+        {
+          "startMs": 7250,
+          "endMs": 7875,
+          "midiNote": 67
+        },
+        {
+          "startMs": 7875,
+          "endMs": 8500,
+          "midiNote": 69
+        },
+        {
+          "startMs": 8500,
+          "endMs": 9125,
+          "midiNote": 67
+        },
+        {
+          "startMs": 9125,
+          "endMs": 9750,
+          "midiNote": 65
+        },
+        {
+          "startMs": 9750,
+          "endMs": 11000,
+          "midiNote": 64
+        },
+        {
+          "startMs": 11000,
+          "endMs": 11625,
+          "midiNote": 60
+        },
+        {
+          "startMs": 12250,
+          "endMs": 12875,
+          "midiNote": 60
+        },
+        {
+          "startMs": 13500,
+          "endMs": 14125,
+          "midiNote": 60
+        },
+        {
+          "startMs": 14750,
+          "endMs": 15375,
+          "midiNote": 60
+        },
+        {
+          "startMs": 16000,
+          "endMs": 16312,
+          "midiNote": 60
+        },
+        {
+          "startMs": 16312,
+          "endMs": 16625,
+          "midiNote": 60
+        },
+        {
+          "startMs": 16625,
+          "endMs": 16938,
+          "midiNote": 62
+        },
+        {
+          "startMs": 16938,
+          "endMs": 17250,
+          "midiNote": 62
+        },
+        {
+          "startMs": 17250,
+          "endMs": 17562,
+          "midiNote": 64
+        },
+        {
+          "startMs": 17562,
+          "endMs": 17875,
+          "midiNote": 64
+        },
+        {
+          "startMs": 17875,
+          "endMs": 18188,
+          "midiNote": 65
+        },
+        {
+          "startMs": 18188,
+          "endMs": 18500,
+          "midiNote": 65
+        },
+        {
+          "startMs": 18500,
+          "endMs": 19125,
+          "midiNote": 64
+        },
+        {
+          "startMs": 19125,
+          "endMs": 19750,
+          "midiNote": 62
+        },
+        {
+          "startMs": 19750,
+          "endMs": 21000,
+          "midiNote": 60
+        }
+      ]
+    },
+    {
+      "id": "tulip",
+      "title": "チューリップ",
+      "bpm": 90,
+      "bassMidi": 48,
+      "durationMs": 33500,
+      "accompaniment": "audio/tulip_accompaniment.wav",
+      "guideMelody": "audio/tulip_guide.wav",
+      "notes": [
+        {
+          "startMs": 1000,
+          "endMs": 1667,
+          "midiNote": 60
+        },
+        {
+          "startMs": 1667,
+          "endMs": 2333,
+          "midiNote": 62
+        },
+        {
+          "startMs": 2333,
+          "endMs": 3000,
+          "midiNote": 64
+        },
+        {
+          "startMs": 3667,
+          "endMs": 4333,
+          "midiNote": 60
+        },
+        {
+          "startMs": 4333,
+          "endMs": 5000,
+          "midiNote": 62
+        },
+        {
+          "startMs": 5000,
+          "endMs": 5667,
+          "midiNote": 64
+        },
+        {
+          "startMs": 6333,
+          "endMs": 7000,
+          "midiNote": 67
+        },
+        {
+          "startMs": 7000,
+          "endMs": 7667,
+          "midiNote": 64
+        },
+        {
+          "startMs": 7667,
+          "endMs": 8333,
+          "midiNote": 62
+        },
+        {
+          "startMs": 8333,
+          "endMs": 9000,
+          "midiNote": 60
+        },
+        {
+          "startMs": 9000,
+          "endMs": 9667,
+          "midiNote": 62
+        },
+        {
+          "startMs": 9667,
+          "endMs": 10333,
+          "midiNote": 64
+        },
+        {
+          "startMs": 10333,
+          "endMs": 11000,
+          "midiNote": 62
+        },
+        {
+          "startMs": 11667,
+          "endMs": 12333,
+          "midiNote": 60
+        },
+        {
+          "startMs": 12333,
+          "endMs": 13000,
+          "midiNote": 62
+        },
+        {
+          "startMs": 13000,
+          "endMs": 13667,
+          "midiNote": 64
+        },
+        {
+          "startMs": 14333,
+          "endMs": 15000,
+          "midiNote": 60
+        },
+        {
+          "startMs": 15000,
+          "endMs": 15667,
+          "midiNote": 62
+        },
+        {
+          "startMs": 15667,
+          "endMs": 16333,
+          "midiNote": 64
+        },
+        {
+          "startMs": 17000,
+          "endMs": 17667,
+          "midiNote": 67
+        },
+        {
+          "startMs": 17667,
+          "endMs": 18333,
+          "midiNote": 64
+        },
+        {
+          "startMs": 18333,
+          "endMs": 19000,
+          "midiNote": 62
+        },
+        {
+          "startMs": 19000,
+          "endMs": 19667,
+          "midiNote": 60
+        },
+        {
+          "startMs": 19667,
+          "endMs": 20333,
+          "midiNote": 62
+        },
+        {
+          "startMs": 20333,
+          "endMs": 21000,
+          "midiNote": 64
+        },
+        {
+          "startMs": 21000,
+          "endMs": 21667,
+          "midiNote": 60
+        },
+        {
+          "startMs": 22333,
+          "endMs": 23000,
+          "midiNote": 67
+        },
+        {
+          "startMs": 23000,
+          "endMs": 23667,
+          "midiNote": 67
+        },
+        {
+          "startMs": 23667,
+          "endMs": 24333,
+          "midiNote": 64
+        },
+        {
+          "startMs": 24333,
+          "endMs": 25000,
+          "midiNote": 67
+        },
+        {
+          "startMs": 25000,
+          "endMs": 25667,
+          "midiNote": 69
+        },
+        {
+          "startMs": 25667,
+          "endMs": 26333,
+          "midiNote": 69
+        },
+        {
+          "startMs": 26333,
+          "endMs": 27000,
+          "midiNote": 67
+        },
+        {
+          "startMs": 27667,
+          "endMs": 28333,
+          "midiNote": 64
+        },
+        {
+          "startMs": 28333,
+          "endMs": 29000,
+          "midiNote": 64
+        },
+        {
+          "startMs": 29000,
+          "endMs": 29667,
+          "midiNote": 62
+        },
+        {
+          "startMs": 29667,
+          "endMs": 30333,
+          "midiNote": 62
+        },
+        {
+          "startMs": 30333,
+          "endMs": 32333,
+          "midiNote": 60
+        }
+      ]
+    }
+  ]
+}
